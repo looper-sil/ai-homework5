@@ -17,7 +17,7 @@ This implemetation is based on Python3. To run the code, you need the following 
 
 ## Repository structure
 ```python
-|-- data/ # 图片数据和文本数据
+|-- data/ # 图片数据和文本数据（在此处略去）
 |-- img/ #图片储存地
 |-- predict/ # （样例）先前预测的结果，包括消融实验
 |-- data.txt # 训练模型时测试和训练准确率的储存地
