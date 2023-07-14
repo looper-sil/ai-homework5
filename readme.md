@@ -1,17 +1,13 @@
 # 多模态情感分析
-图像+文本数据的双模态情感分析分类问题
+text+img+mix的双模态情感分析
 
 ## Setup
-
-This implemetation is based on Python3. To run the code, you need the following dependencies:
 
 - torch==1.10.0
 
 - sklearn==1.0.0
 
 - transformers==4.30.2
-
-使用指令
 
 
 
